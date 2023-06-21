@@ -361,9 +361,7 @@ My credentials started of with my undergrad, where my focus was in Kinesiology a
                         <div class="modal-content">
                             <div class="modal-header">
                                 <h5 class="modal-title" id="exampleModalLabel">Custom Orthotics</h5>
-                                <button type="button" class="close" data-bs-dismiss="modal" aria-label="Close">
-                                    <span aria-hidden="true">&times;</span>
-                                </button>
+
                             </div>
                             <div class="modal-body">
                                 <ul class="nav nav-pills mb-3" id="pills-tab" role="tablist">
@@ -395,7 +393,6 @@ My credentials started of with my undergrad, where my focus was in Kinesiology a
                                                             <label for="exampleInputEmail1">Email address</label>
                                                             <input type="email" class="form-control" name="email" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email" />
                                                             <span class="error">* <?php echo $nameErr; ?></span>
-                                                            <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
                                                         </div>
                                                         <div class="form-group">
                                                             <label for="email_body">Message</label>
@@ -415,7 +412,6 @@ My credentials started of with my undergrad, where my focus was in Kinesiology a
                             </div>
                             <div class="modal-footer">
                                 <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
-                                <button type="button" class="btn btn-primary">Save changes</button>
                             </div>
                         </div>
                     </div>
@@ -433,9 +429,7 @@ My credentials started of with my undergrad, where my focus was in Kinesiology a
                         <div class="modal-content">
                             <div class="modal-header">
                                 <h5 class="modal-title" id="exampleModalLabel">Diabetic Modal</h5>
-                                <button type="button" class="close" data-bs-dismiss="modal" aria-label="Close">
-                                    <span aria-hidden="true">&times;</span>
-                                </button>
+
                             </div>
                             <div class="modal-body">
                                 <ul class="nav nav-pills mb-3" id="pills-tab" role="tablist">
@@ -476,7 +470,6 @@ My credentials started of with my undergrad, where my focus was in Kinesiology a
                                                             <input type="email" class="form-control" name="email" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email" />
                                                             <span class="error">* <?php echo $emailErr; ?></span>
 
-                                                            <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
                                                         </div>
                                                         <div class="form-group">
                                                             <label for="email_body">Message</label>
@@ -498,7 +491,6 @@ My credentials started of with my undergrad, where my focus was in Kinesiology a
                             </div>
                             <div class="modal-footer">
                                 <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
-                                <button type="button" class="btn btn-primary">Save changes</button>
                             </div>
                         </div>
                     </div>
@@ -518,9 +510,7 @@ My credentials started of with my undergrad, where my focus was in Kinesiology a
                         <div class="modal-content">
                             <div class="modal-header">
                                 <h5 class="modal-title" id="exampleModalLabel">Nails/Callus Issues</h5>
-                                <button type="button" class="close" data-bs-dismiss="modal" aria-label="Close">
-                                    <span aria-hidden="true">&times;</span>
-                                </button>
+
                             </div>
                             <div class="modal-body">
                                 <ul class="nav nav-pills mb-3" id="pills-tab" role="tablist">
@@ -561,7 +551,6 @@ My credentials started of with my undergrad, where my focus was in Kinesiology a
                                                             <input type="email" class="form-control" name="email" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email" />
                                                             <span class="error">* <?php echo $emailErr; ?></span>
 
-                                                            <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
                                                         </div>
                                                         <div class="form-group">
                                                             <label for="email_body">email_body</label>
@@ -583,7 +572,6 @@ My credentials started of with my undergrad, where my focus was in Kinesiology a
                             </div>
                             <div class="modal-footer">
                                 <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
-                                <button type="button" class="btn btn-primary">Save changes</button>
                             </div>
                         </div>
                     </div>
@@ -604,9 +592,7 @@ My credentials started of with my undergrad, where my focus was in Kinesiology a
                         <div class="modal-content">
                             <div class="modal-header">
                                 <h5 class="modal-title" id="exampleModalLabel">Plantar Fascitis</h5>
-                                <button type="button" class="close" data-bs-dismiss="modal" aria-label="Close">
-                                    <span aria-hidden="true">&times;</span>
-                                </button>
+
                             </div>
                             <div class="modal-body">
                                 <ul class="nav nav-pills mb-3" id="pills-tab" role="tablist">
@@ -648,7 +634,6 @@ My credentials started of with my undergrad, where my focus was in Kinesiology a
                                                             <input type="email" class="form-control" name="email" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email" />
                                                             <span class="error">* <?php echo $emailErr; ?></span>
 
-                                                            <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
                                                         </div>
                                                         <div class="form-group">
                                                             <label for="email_body">Message</label>
@@ -670,7 +655,6 @@ My credentials started of with my undergrad, where my focus was in Kinesiology a
                             </div>
                             <div class="modal-footer">
                                 <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
-                                <button type="button" class="btn btn-primary">Save changes</button>
                             </div>
                         </div>
                     </div>
@@ -688,9 +672,7 @@ My credentials started of with my undergrad, where my focus was in Kinesiology a
                         <div class="modal-content">
                             <div class="modal-header">
                                 <h5 class="modal-title" id="exampleModalLabel">Achilles Tendinitis</h5>
-                                <button type="button" class="close" data-bs-dismiss="modal" aria-label="Close">
-                                    <span aria-hidden="true">&times;</span>
-                                </button>
+
                             </div>
                             <div class="modal-body">
                                 <ul class="nav nav-pills mb-3" id="pills-tab" role="tablist">
@@ -731,7 +713,6 @@ My credentials started of with my undergrad, where my focus was in Kinesiology a
                                                             <input type="email" class="form-control" name="email" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email" />
                                                             <span class="error">* <?php echo $emailErr; ?></span>
 
-                                                            <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
                                                         </div>
                                                         <div class="form-group">
                                                             <label for="email_body">Message</label>
@@ -752,7 +733,6 @@ My credentials started of with my undergrad, where my focus was in Kinesiology a
                             </div>
                             <div class="modal-footer">
                                 <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
-                                <button type="button" class="btn btn-primary">Save changes</button>
                             </div>
                         </div>
                     </div>
@@ -770,9 +750,7 @@ My credentials started of with my undergrad, where my focus was in Kinesiology a
                         <div class="modal-content">
                             <div class="modal-header">
                                 <h5 class="modal-title" id="exampleModalLabel">Paediatric Flat Feet</h5>
-                                <button type="button" class="close" data-bs-dismiss="modal" aria-label="Close">
-                                    <span aria-hidden="true">&times;</span>
-                                </button>
+
                             </div>
                             <div class="modal-body">
                                 <ul class="nav nav-pills mb-3" id="pills-tab" role="tablist">
@@ -813,7 +791,6 @@ My credentials started of with my undergrad, where my focus was in Kinesiology a
                                                             <input type="email" class="form-control" name="email" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email" />
                                                             <span class="error">* <?php echo $emailErr; ?></span>
 
-                                                            <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
                                                         </div>
                                                         <div class="form-group">
                                                             <label for="email_body">Message</label>
@@ -834,8 +811,7 @@ My credentials started of with my undergrad, where my focus was in Kinesiology a
 
                                 <div class="modal-footer">
                                     <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
-                                    <button type="button" class="btn btn-primary">Save changes</button>
-                                </div>
+                                    </div>
                             </div>
                         </div>
                     </div>
@@ -937,9 +913,7 @@ My credentials started of with my undergrad, where my focus was in Kinesiology a
                         <div class="modal-content">
                             <div class="modal-header">
                                 <h5 class="modal-title" id="exampleModalLabel">Fungal Toenailes/Athletes Foot</h5>
-                                <button type="button" class="close" data-bs-dismiss="modal" aria-label="Close">
-                                    <span aria-hidden="true">&times;</span>
-                                </button>
+
                             </div>
                             <div class="modal-body">
                                 <p class="bio-text">
@@ -981,7 +955,6 @@ My credentials started of with my undergrad, where my focus was in Kinesiology a
                                                             <input type="email" class="form-control" name="email" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email" />
                                                             <span class="error">* <?php echo $emailErr; ?></span>
 
-                                                            <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
                                                         </div>
                                                         <div class="form-group">
                                                             <label for="email_body">Message</label>
@@ -1003,7 +976,6 @@ My credentials started of with my undergrad, where my focus was in Kinesiology a
                             </div>
                             <div class="modal-footer">
                                 <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
-                                <button type="button" class="btn btn-primary">Save changes</button>
                             </div>
                         </div>
                     </div>
