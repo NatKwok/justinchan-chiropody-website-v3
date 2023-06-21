@@ -146,7 +146,7 @@ if (isset($_POST['add'])) {
     <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
     <!-- Font Awesome icons (free version)-->
     <script
-      src="https://use.fontawesome.com/releases/v6.3.0/js/all.js"
+      src="https://use.fontawesome.com/releases/v6.4.0/js/all.js"
       crossorigin="anonymous"
     ></script>
     <!-- Google fonts-->
@@ -1079,7 +1079,7 @@ My credentials started of with my undergrad, where my focus was in Kinesiology a
           <div class="col-md-4 mb-3 mb-md-0">
             <div class="card py-4 h-100">
               <div class="card-body text-center">
-                <i class="fas fa-map-marked-alt text-primary mb-2"></i>
+                <i class="fas fa-map-marked-alt text-primary mb-2 fa-2xl"></i>
                 <h4 class="text-uppercase m-0">Address</h4>
                 <hr class="my-4 mx-auto" />
                 <div class="small text-black-50">
@@ -1091,7 +1091,7 @@ My credentials started of with my undergrad, where my focus was in Kinesiology a
           <div class="col-md-4 mb-3 mb-md-0">
             <div class="card py-4 h-100">
               <div class="card-body text-center">
-                <i class="fas fa-envelope text-primary mb-2"></i>
+                <i class="fas fa-envelope text-primary mb-2 fa-2xl"></i>
                 <h4 class="text-uppercase m-0">Email</h4>
                 <hr class="my-4 mx-auto" />
                 <div class="small text-black-50">
@@ -1103,7 +1103,7 @@ My credentials started of with my undergrad, where my focus was in Kinesiology a
           <div class="col-md-4 mb-3 mb-md-0">
             <div class="card py-4 h-100">
               <div class="card-body text-center">
-                <i class="fas fa-mobile-alt text-primary mb-2"></i>
+                <i class="fas fa-mobile-alt text-primary mb-2 fa-2xl"></i>
                 <h4 class="text-uppercase m-0">Phone</h4>
                 <hr class="my-4 mx-auto" />
                 <div class="small text-black-50">+1 (647) 825-3647</div>
@@ -1112,9 +1112,9 @@ My credentials started of with my undergrad, where my focus was in Kinesiology a
           </div>
         </div>
         <div class="social d-flex justify-content-center">
-          <a class="mx-2" href="#!"><i class="fab fa-twitter"></i></a>
-          <a class="mx-2" href="#!"><i class="fab fa-facebook-f"></i></a>
-          <a class="mx-2" href="#!"><i class="fab fa-instagram"></i></a>
+          <a class="mx-2" href="#!"><i class="fa-brands fa-twitter fa-2xl"></i></a>
+          <a class="mx-2" href="#!"><i class="fa-brands fa-facebook fa-2xl"></i></a>
+          <a class="mx-2" href="#!"><i class="fa-brands fa-instagram fa-2xl"></i></i></a>
         </div>
       </div>
     </section>
