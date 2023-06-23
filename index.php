@@ -383,17 +383,17 @@ My credentials started of with my undergrad, where my focus was in Kinesiology a
                                                         <div class="form-group">
                                                             <label for="name">Name</label>
                                                             <input type="text" class="form-control" id="inputName" name="name" placeholder="Enter Name" />
-                                                            <span class="error">* <?php echo $nameErr; ?></span>
+                                                            <span class="error"><?php echo $nameErr; ?></span>
                                                         </div>
                                                         <div class="form-group">
                                                             <label for="exampleInputEmail1">Email address</label>
                                                             <input type="email" class="form-control" name="email" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email" />
-                                                            <span class="error">* <?php echo $nameErr; ?></span>
+                                                            <span class="error"><?php echo $nameErr; ?></span>
                                                         </div>
                                                         <div class="form-group">
                                                             <label for="email_body">Message</label>
                                                             <textarea name="email_body" class="form-control" rows="5" id="comment"></textarea>
-                                                            <span class="error">* <?php echo $email_bodyErr; ?></span>
+                                                            <span class="error"><?php echo $email_bodyErr; ?></span>
                                                         </div>
                                                         <div class="form-group">
                                                             <input type="hidden" name="email_subject" class="form-control" rows="5" id="email_subject" value="Custom Orthotics"></input>
@@ -470,19 +470,19 @@ My credentials started of with my undergrad, where my focus was in Kinesiology a
                                                         <div class="form-group">
                                                             <label for="name">Name</label>
                                                             <input type="text" class="form-control" id="inputName" name="name" placeholder="Enter Name" />
-                                                            <span class="error">* <?php echo $nameErr; ?></span>
+                                                            <span class="error"><?php echo $nameErr; ?></span>
 
                                                         </div>
                                                         <div class="form-group">
                                                             <label for="exampleInputEmail1">Email address</label>
                                                             <input type="email" class="form-control" name="email" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email" />
-                                                            <span class="error">* <?php echo $emailErr; ?></span>
+                                                            <span class="error"><?php echo $emailErr; ?></span>
 
                                                         </div>
                                                         <div class="form-group">
                                                             <label for="email_body">Message</label>
                                                             <textarea name="email_body" class="form-control" rows="5" id="comment"></textarea>
-                                                            <span class="error">* <?php echo $email_bodyErr; ?></span>
+                                                            <span class="error"><?php echo $email_bodyErr; ?></span>
 
                                                         </div>
                                                         <div class="form-group">
@@ -564,19 +564,19 @@ My credentials started of with my undergrad, where my focus was in Kinesiology a
                                                         <div class="form-group">
                                                             <label for="name">Name</label>
                                                             <input type="text" class="form-control" id="inputName" name="name" placeholder="Enter Name" />
-                                                            <span class="error">* <?php echo $nameErr; ?></span>
+                                                            <span class="error"><?php echo $nameErr; ?></span>
 
                                                         </div>
                                                         <div class="form-group">
                                                             <label for="exampleInputEmail1">Email address</label>
                                                             <input type="email" class="form-control" name="email" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email" />
-                                                            <span class="error">* <?php echo $emailErr; ?></span>
+                                                            <span class="error"><?php echo $emailErr; ?></span>
 
                                                         </div>
                                                         <div class="form-group">
                                                             <label for="email_body">email_body</label>
                                                             <textarea name="email_body" class="form-control" rows="5" id="comment"></textarea>
-                                                            <span class="error">* <?php echo $email_bodyErr; ?></span>
+                                                            <span class="error"><?php echo $email_bodyErr; ?></span>
 
                                                         </div>
                                                         <div class="form-group">
@@ -656,19 +656,19 @@ My credentials started of with my undergrad, where my focus was in Kinesiology a
                                                         <div class="form-group">
                                                             <label for="name">Name</label>
                                                             <input type="text" class="form-control" id="inputName" name="name" placeholder="Enter Name" />
-                                                            <span class="error">* <?php echo $nameErr; ?></span>
+                                                            <span class="error"><?php echo $nameErr; ?></span>
 
                                                         </div>
                                                         <div class="form-group">
                                                             <label for="exampleInputEmail1">Email address</label>
                                                             <input type="email" class="form-control" name="email" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email" />
-                                                            <span class="error">* <?php echo $emailErr; ?></span>
+                                                            <span class="error"><?php echo $emailErr; ?></span>
 
                                                         </div>
                                                         <div class="form-group">
                                                             <label for="email_body">Message</label>
                                                             <textarea name="email_body" class="form-control" rows="5" id="comment"></textarea>
-                                                            <span class="error">* <?php echo $email_bodyErr; ?></span>
+                                                            <span class="error"><?php echo $email_bodyErr; ?></span>
 
                                                         </div>
                                                         <div class="form-group">
@@ -740,19 +740,19 @@ My credentials started of with my undergrad, where my focus was in Kinesiology a
                                                         <div class="form-group">
                                                             <label for="name">Name</label>
                                                             <input type="text" class="form-control" id="inputName" name="name" placeholder="Enter Name" />
-                                                            <span class="error">* <?php echo $nameErr; ?></span>
+                                                            <span class="error"><?php echo $nameErr; ?></span>
 
                                                         </div>
                                                         <div class="form-group">
                                                             <label for="exampleInputEmail1">Email address</label>
                                                             <input type="email" class="form-control" name="email" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email" />
-                                                            <span class="error">* <?php echo $emailErr; ?></span>
+                                                            <span class="error"><?php echo $emailErr; ?></span>
 
                                                         </div>
                                                         <div class="form-group">
                                                             <label for="email_body">Message</label>
                                                             <textarea name="email_body" class="form-control" rows="5" id="comment"></textarea>
-                                                            <span class="error">* <?php echo $email_bodyErr; ?></span>
+                                                            <span class="error"><?php echo $email_bodyErr; ?></span>
 
                                                         </div>
                                                         <div class="form-group">
@@ -826,19 +826,19 @@ My credentials started of with my undergrad, where my focus was in Kinesiology a
                                                         <div class="form-group">
                                                             <label for="name">Name</label>
                                                             <input type="text" class="form-control" id="inputName" name="name" placeholder="Enter Name" />
-                                                            <span class="error">* <?php echo $nameErr; ?></span>
+                                                            <span class="error"><?php echo $nameErr; ?></span>
 
                                                         </div>
                                                         <div class="form-group">
                                                             <label for="exampleInputEmail1">Email address</label>
                                                             <input type="email" class="form-control" name="email" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email" />
-                                                            <span class="error">* <?php echo $emailErr; ?></span>
+                                                            <span class="error"><?php echo $emailErr; ?></span>
 
                                                         </div>
                                                         <div class="form-group">
                                                             <label for="email_body">Message</label>
                                                             <textarea name="email_body" class="form-control" rows="5" id="comment"></textarea>
-                                                            <span class="error">* <?php echo $email_bodyErr; ?></span>
+                                                            <span class="error"><?php echo $email_bodyErr; ?></span>
 
                                                         </div>
                                                         <div class="form-group">
@@ -909,20 +909,19 @@ My credentials started of with my undergrad, where my focus was in Kinesiology a
                                                         <div class="form-group">
                                                             <label for="name">Name</label>
                                                             <input type="text" class="form-control" id="inputName" name="name" placeholder="Enter Name" />
-                                                            <span class="error">* <?php echo $nameErr; ?></span>
+                                                            <span class="error"><?php echo $nameErr; ?></span>
 
                                                         </div>
                                                         <div class="form-group">
                                                             <label for="exampleInputEmail1">Email address</label>
                                                             <input type="email" class="form-control" name="email" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email" />
-                                                            <span class="error">* <?php echo $emailErr; ?></span>
+                                                            <span class="error"><?php echo $emailErr; ?></span>
 
-                                                            <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
                                                         </div>
                                                         <div class="form-group">
                                                             <label for="email_body">Message</label>
                                                             <textarea name="email_body" class="form-control" rows="5" id="comment"></textarea>
-                                                            <span class="error">* <?php echo $email_bodyErr; ?></span>
+                                                            <span class="error"><?php echo $email_bodyErr; ?></span>
 
                                                         </div>
                                                         <div class="form-group">
@@ -995,19 +994,19 @@ My credentials started of with my undergrad, where my focus was in Kinesiology a
                                                         <div class="form-group">
                                                             <label for="name">Name</label>
                                                             <input type="text" class="form-control" id="inputName" name="name" placeholder="Enter Name" />
-                                                            <span class="error">* <?php echo $nameErr; ?></span>
+                                                            <span class="error"><?php echo $nameErr; ?></span>
 
                                                         </div>
                                                         <div class="form-group">
                                                             <label for="exampleInputEmail1">Email address</label>
                                                             <input type="email" class="form-control" name="email" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email" />
-                                                            <span class="error">* <?php echo $emailErr; ?></span>
+                                                            <span class="error"> <?php echo $emailErr; ?></span>
 
                                                         </div>
                                                         <div class="form-group">
                                                             <label for="email_body">Message</label>
                                                             <textarea name="email_body" class="form-control" rows="5" id="comment"></textarea>
-                                                            <span class="error">* <?php echo $email_bodyErr; ?></span>
+                                                            <span class="error"> <?php echo $email_bodyErr; ?></span>
 
                                                         </div>
                                                         <div class="form-group">
