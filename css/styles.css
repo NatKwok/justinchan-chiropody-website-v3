@@ -2852,12 +2852,12 @@ textarea.form-control-lg {
   --bs-btn-bg: #000080;
   --bs-btn-border-color: #000080;
   --bs-btn-hover-color: #FAF9F6;
-  --bs-btn-hover-bg: #558985;
-  --bs-btn-hover-border-color: #50817e;
+  --bs-btn-hover-bg: #03034d;
+  --bs-btn-hover-border-color: #040475;
   --bs-btn-focus-shadow-rgb: 123, 175, 172;
   --bs-btn-active-color: #FAF9F6;
-  --bs-btn-active-bg: #50817e;
-  --bs-btn-active-border-color: #4b7976;
+  --bs-btn-active-bg: #070791;
+  --bs-btn-active-border-color: #050580;
   --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
   --bs-btn-disabled-color: #FAF9F6;
   --bs-btn-disabled-bg: #000080;
@@ -11069,7 +11069,7 @@ body {
   height: auto;
   min-height: 35rem;
   padding: 15rem 0;
-  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.3) 0%, rgba(0, 0, 0, 0.7) 75%, #000 100%), url("../assets/img/test_background.png");
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.3) 0%, rgba(0, 0, 0, 0.7) 75%, #000 100%), url("../assets/img/test_background.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
