@@ -11113,6 +11113,7 @@ body {
 
 .about-section {
   padding-top: 10rem;
+  padding-bottom: 10rem;
   background: linear-gradient(to bottom, #000 0%, rgba(0, 0, 0, 0.9) 75%, rgba(0, 0, 0, 0.8) 100%);
 }
 .about-section p {
@@ -11121,7 +11122,8 @@ body {
 
 .education-section {
   padding-top: 10rem;
-  background: linear-gradient(to bottom, #000 0%, rgba(0, 0, 0, 0.9) 75%, rgba(0, 0, 0, 0.8) 100%);
+  background: linear-gradient(180deg, rgba(255,255,255,0.50) 0%, rgba(0,0,0,0.50) 100%);
+
 }
 .education-section p {
   margin-bottom: 5rem;

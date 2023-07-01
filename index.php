@@ -163,7 +163,7 @@ if (isset($_POST['add'])) {
             <div class="collapse navbar-collapse" id="navbarResponsive">
                 <ul class="navbar-nav ms-auto">
                     <li class="nav-item">
-                        <a class="nav-link" href="#about">About</a>
+                        <a class="nav-link" href="#about">About Me</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="#education">Education</a>
@@ -211,6 +211,10 @@ if (isset($_POST['add'])) {
                 </div>
             </div>
         </div>
+
+    </section>
+
+        <section class="education-section text-center" id="education">
 
         <div class="container px-4 px-lg-5">
             <div class="row gx-4 gx-lg-5 justify-content-center">
@@ -263,8 +267,8 @@ if (isset($_POST['add'])) {
         <br />
 
         <img class="img-fluid" src="assets/img/feet_heroshot.png" alt="..." />
+        </section>
 
-    </section>
 
     <!--TEST-->
     <!-- <section class="projects-section bg-light" id="projects">
