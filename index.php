@@ -214,7 +214,10 @@ if (isset($_POST['add'])) {
 
     </section>
 
-        <section class="education-section text-center" id="education">
+
+    <!-- Education-->
+
+    <section class="education-section text-center" id="education">
 
         <div class="container px-4 px-lg-5">
             <div class="row gx-4 gx-lg-5 justify-content-center">
@@ -260,73 +263,10 @@ if (isset($_POST['add'])) {
                 </div>
             </div>
         </div>
-        <br />
-
-        <br />
-
-        <br />
 
         <img class="img-fluid" src="assets/img/feet_heroshot.png" alt="..." />
-        </section>
+    </section>
 
-
-    <!--TEST-->
-    <!-- <section class="projects-section bg-light" id="projects">
-      <div class="container px-4 px-lg-5">
-
-      
-      </div>
-    </section> -->
-    <!--Education-->
-    <!-- <section class="education-section text-center" id="education">
-            <div class="container px-4 px-lg-5">
-  
-            <div class="row gx-4 gx-lg-5 justify-content-center">
-            <div class="col-lg-12">
-              <h2 class="text-white mb-4">Education</h2>
-              <p class="text-white-50">
-My credentials started of with my undergrad, where my focus was in Kinesiology and Human Mechanics. My interest in chiropody led me to complete my Advanced Graduate Diploma where I graduated with Distinction.
-              </p>
-              <div class="row">
-                  <div class="col">
-                      <div class="card mb-3" style="max-width: 540px;">
-                          <div class="row g-0">
-                              <div class="col-md-4">
-                                  <img src="./assets/img/education/utoronto.png" class="img-fluid rounded-start" alt="..." />
-                              </div>
-                              <div class="col-md-8">
-                                  <div class="card-body">
-                                      <h5 class="card-title">University of Toronto</h5>
-                                      <p class="card-text">September 2013 to June 2017</p>
-                                      <p class="card-text"><small class="text-muted"> Bachelor of Kinesiology and Physical Education - Graduated with High Honour</small></p>
-                                  </div>
-                              </div>
-                          </div>
-                      </div>
-                  </div>
-                  <div class="col">
-                      <div class="card mb-3" style="max-width: 540px;">
-                          <div class="row g-0">
-                              <div class="col-md-4">
-                                  <img src="./assets/img/education/michnerlogo.png" class="img-fluid rounded-start" alt="..." />
-                              </div>
-                              <div class="col-md-8">
-                                  <div class="card-body">
-                                      <h5 class="card-title">The Michener Institute for Applied Health Sciences</h5>
-                                      <p class="card-text">September 2017 to April 2020</p>
-                                      <p class="card-text"><small class="text-muted"> Advanced Graduate Diploma of Health Sciences in Chiropody - Graduated with Distinction</small></p>
-                                  </div>
-                              </div>
-                          </div>
-                      </div>
-                  </div>
-              </div>
-            </div>
-          </div>
-      </div>
-      <img class="img-fluid" src="assets/img/feet_heroshot.png" alt="..." />
-
-      </section> -->
     <!-- Projects-->
     <section class="projects-section bg-light" id="projects">
         <div class="container px-4 px-lg-5">

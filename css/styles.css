@@ -4276,6 +4276,7 @@ textarea.form-control-lg {
   flex: 1 1 auto;
   padding: var(--bs-card-spacer-y) var(--bs-card-spacer-x);
   color: var(--bs-card-color);
+  background-color: #FAF9F6;
 }
 
 .card-title {
@@ -11114,7 +11115,8 @@ body {
 .about-section {
   padding-top: 10rem;
   padding-bottom: 10rem;
-  background: linear-gradient(to bottom, #000 0%, rgba(0, 0, 0, 0.9) 75%, rgba(0, 0, 0, 0.8) 100%);
+  /* background: linear-gradient(to bottom, #000 0%, rgba(0, 0, 0, 0.9) 75%, rgba(0, 0, 0, 0.8) 100%); */
+  background-color: #000;
 }
 .about-section p {
   margin-bottom: 5rem;
@@ -11122,6 +11124,7 @@ body {
 
 .education-section {
   padding-top: 10rem;
+  padding-bottom: 15rem;
   background: linear-gradient(180deg, rgba(255,255,255,0.50) 0%, rgba(0,0,0,0.50) 100%);
 
 }
